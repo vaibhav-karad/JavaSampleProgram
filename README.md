@@ -1,2 +1,2 @@
-# JavaSampleProgram
+# Java Sample Program
 Jenkins Test 
